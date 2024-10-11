@@ -11,12 +11,18 @@
     + https://www.mouser.com/ProductDetail/579-PIC18F47Q84-E-P
 + Prod pkg:  PIC18F47Q84-E/PT
     + https://www.mouser.com/ProductDetail/579-PIC18F47Q84-E-PT
+
+#### EEPROM:
++ Probable?: 25LC160C-E/P
+    + IC: https://www.mouser.com/ProductDetail/579-25LC160C-E-P
+    + socket: https://www.mouser.com/ProductDetail/571-2485264-1
     
 #### USB-C Conn:
 + Probable:
     + https://www.mouser.com/ProductDetail/649-10137062-00021LF
 + Possible:
     + https://www.mouser.com/ProductDetail/649-10137061-00021LF
+    + 
 #### etc:
 
 + Gateron or MX hot swap sockets.
