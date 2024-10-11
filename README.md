@@ -6,7 +6,7 @@
 #### 1N4148WS-HF Diodes:
 + https://www.mouser.com/ProductDetail/750-1N4148WS-HF
 
-#### MCU:
+#### MCU (x2? maybe one to handle usb negotiation and other for kbd mgmt):
 + Breadboard pkg:  PIC18F47Q84-E/P
     + https://www.mouser.com/ProductDetail/579-PIC18F47Q84-E-P
 + Prod pkg:  PIC18F47Q84-E/PT
