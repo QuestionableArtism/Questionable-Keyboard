@@ -1,5 +1,7 @@
 # Questionable-Keyboard
 
+### Components:
+
 #### RGB LEDs (SK-6812) because the WS-2812Bs are probably gonna be too big:
 + https://www.adafruit.com/product/4960
 
@@ -27,3 +29,7 @@
 
 + Gateron or MX hot swap sockets.
 + Switches.
+
+### Case and such:
+
+The CAD models and such aren't going to be a thing until I get the board designed, which won't be a thing until I get the schematic made.
