@@ -15,7 +15,7 @@
     + https://www.mouser.com/ProductDetail/579-PIC18F47Q84-E-PT
 
 #### External Oscillator (maybe):
-+ 48MHz +/- 30ppm SMD: https://www.mouser.com/ProductDetail/710-831019805
++ 48MHz +/- 50ppm SMD: https://www.mouser.com/ProductDetail/710-831019805
 
 #### EEPROM:
 + Probable?: 25LC160C-E/P
